@@ -10,6 +10,4 @@
 [Github page](https://nashalysf.github.io/Code-Restructure/)
 
 ### SCREENSHOTS 
-[![Horiseon]](https://github.com/nashalysf/Code-Restructure/blob/main/images/web1.jpg)
-(https://github.com/nashalysf/Code-Restructure/blob/main/images/web2.jpg)
-(https://github.com/nashalysf/Code-Restructure/blob/main/images/web3.jpg)
+[![Horiseon]](https://nashalysf.github.io/Code-Restructure/)

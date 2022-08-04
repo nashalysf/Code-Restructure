@@ -5,12 +5,11 @@
 ## Built with:
 -HTML and CSS.
 ## Original Code:
--[github links] (https://github.com/coding-boot-camp/urban-octo-telegram/commits?author=Xandromus)
-(https://github.com/nashalysf/Horiseon-web) (https://nashalysf.github.io/Horiseon-web/)
+[Github original code](https://github.com/coding-boot-camp/urban-octo-telegram/commits?author=Xandromus)
+[Github](https://github.com/nashalysf/Code-Restructure) 
+[Github page](https://nashalysf.github.io/Code-Restructure/)
 
-![SCREENSHOTS] (https://github.com/nashalysf/Horiseon-web/blob/main/images/html1.jpg) 
-(https://github.com/nashalysf/Horiseon-web/blob/main/images/html2.jpg) 
-(https://github.com/nashalysf/Horiseon-web/blob/main/images/html3.jpg)
-(https://github.com/nashalysf/Horiseon-web/blob/main/images/web1.jpg)
-(https://github.com/nashalysf/Horiseon-web/blob/main/images/web2.jpg)
-(https://github.com/nashalysf/Horiseon-web/blob/main/images/web3.jpg)
+[SCREENSHOTS] 
+(https://github.com/nashalysf/Code-Restructure/blob/main/images/web1.jpg)
+(https://github.com/nashalysf/Code-Restructure/blob/main/images/web2.jpg)
+(https://github.com/nashalysf/Code-Restructure/blob/main/images/web3.jpg)
